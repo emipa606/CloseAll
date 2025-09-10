@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="CloseAll/CloseAll.csproj" Type="687fac25-a459-4fa8-9f34-a5af8cc82b9c" />
+</Solution>
