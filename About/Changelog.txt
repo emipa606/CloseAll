@@ -1,5 +1,8 @@
 # Changelog for CloseAll
 
+1.6.2 - Last update, added end-of-life message
+
+
 1.6.1 - Updated to 1.6
 Used DeepL to update translations for ChineseSimplified, German
 

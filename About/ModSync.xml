@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>075eba76-e948-483d-951a-34528d020440</ID>
   <ModName>CloseAll (Continued)</ModName>
-  <Version>1.6.1</Version>
+  <Version>1.6.2</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,8 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
 

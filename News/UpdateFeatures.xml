@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HugsLib.UpdateFeatureDef Abstract="true" Name="CloseAll_UpdateFeatureBase">
+		<modNameReadable>CloseAll</modNameReadable>
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3565823845</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="CloseAll_UpdateFeatureBase">
+		<defName>CloseAll_1_6_1</defName>
+		<assemblyVersion>1.6.1</assemblyVersion>
+		<content>The original version of this mod has been updated, please use it instead. This version will remain, but unlisted and will not be updated further.</content>
+	</HugsLib.UpdateFeatureDef>
+</Defs>
+
